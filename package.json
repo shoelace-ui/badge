@@ -1,0 +1,10 @@
+{
+  "name" : "shoelace-ui-badge",
+  "version" : "0.0.1",
+  "description" : "Badge styles",
+  "repository" : "https://github.com/shoelace-ui/badge.git",
+  "keywords" : ["shoelace", "badge"],
+  "dependencies": {},
+  "author" : "Michael Andrew Vanasse <mail@mndvns.com>",
+  "license" : "MIT"
+}
