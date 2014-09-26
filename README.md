@@ -1,13 +1,17 @@
 # badge
 
-Badge styles and variables.
+Badge styles
 
-## Installation
+## Install
 
 ```sh
-$ npm install shoelace-ui/badge
+$ npm install shoelace-ui-badge
 ```
+## Usage
 
+```styl
+@require 'shoelace-ui-badge'
+```
 ## License
 
 MIT

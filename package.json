@@ -1,6 +1,6 @@
 {
   "name" : "shoelace-ui-badge",
-  "version" : "0.0.1",
+  "version" : "0.1.0",
   "description" : "Badge styles",
   "repository" : "https://github.com/shoelace-ui/badge.git",
   "keywords" : ["shoelace", "badge"],
